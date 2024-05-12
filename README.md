@@ -4,4 +4,4 @@ open terminal:
 make exec
 
 
-Problem statement: https://github.com/karthikv1392/cs3301_osn/blob/master/mini-projects/mp1%20.md
+Problem statement: https://karthikv1392.github.io/cs3301_osn/mini-projects/mp1
