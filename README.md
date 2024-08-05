@@ -7,33 +7,6 @@ make exec
 Problem statement: https://karthikv1392.github.io/cs3301_osn/mini-projects/mp1
 
 
-# Mini Project 1 : Building your own shell
-Before starting, make sure to read this document **completely** including **Instructions, Guidelines, Plagiarism Policy and Submission Guidelines described at the end** before asking any doubts as they might already be covered here. Additionally, you are recommended to read these to avoid unnecessary penalties.
-
-## GitHub Classroom
-
-Follow [this link](https://classroom.github.com/a/76mHqLr5) to accept the assignment. You will then be assigned a private repository on GitHub. This is where you will be working on the mini project. All relevant instructions regarding this project can be found below.
-
-## Instructions
-
-In this Mini Project, you will be building your own shell using C. As the scale of code will be very large, it is **necessary to write modular code.  Do NOT write monolithic code.** Following is the definition of what modular code should look like : your codebase must be separated in different C files based on the tasks that it is intended to perform. Create header files to include headers from C library. You will be penalized heavily if your code is non modular.
-
-It is highly recommended to start this mini project early to complete it in time as it will be quite intensive. There are 3 parts to this assignment with two deadlines in total (including final deadline). More clearly, you are required to submit your code 2 times in the duration of this assignment with the last deadline being the final submission deadline (Parts A,B,C combined) before getting penalized for submitting after this till the hard deadline which is 1 week after it i.e. 19 Sep 2023
-
-- 1st deadline : Only part A is required to be submitted
-50% points of Part A will be given based on this submission.
-- 2nd deadline : All Parts A, B and C must be submitted.
-50% points of Part A and 100% points of Part B,C will be given based on this submission.
-
-For easier understanding, let’s say Part A is worth 100 points total. If your submission is worth 20 points from Part A during 1st deadline, and you submit it completely during 2nd deadline (100 points), you will get a total of (20/2) + (100/2) = 60 points. If you submit Part A completely in both deadlines, you will get full marks. For Part B,C: whatever you submit during 2nd deadline will be used to award you points.
-**Thus, in case of missing 1st deadline, 50% points of Part A will be lost even if that part is submitted at a later deadline.**
-
-## Deadlines
-
-**Intermediary deadline : 11:59 PM - 25 Aug, 2023**
-
-**Final Soft deadline : 11:59 PM - 12 Sep, 2023**
- 
 
 ## Part A : Basic System Calls
 
